@@ -1,0 +1,4 @@
+{
+    "python.testing.promptToConfigure": false,
+    "python.terminal.activateEnvironment": false,
+}
